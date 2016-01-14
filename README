@@ -4,6 +4,9 @@ better (or at least has the potential to function better) within
 that limited scope.  Since it is much smaller than xntpd, it is
 also more relevant for embedded computers.
 
+I (Punit Vara) am working on ntpclient to interface with OMAP L138. 
+I have tested this code with OMAP L138.
+
 ntpclient is Copyright 1997, 1999, 2000, 2003, 2006, 2007 Larry Doolittle,
 and may be freely copied and modified according to the terms of the GNU
 General Public License, version 2.  If you want to distribute ntpclient
